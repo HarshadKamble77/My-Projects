@@ -1,0 +1,14 @@
+Description: 
+This project focuses on the Youth Progress Index (YPI), aiming to provide a comprehensive analysis of youth well-being across different regions. 
+It includes data collection, transformation, visualization, and model development to analyze key factors affecting youth progress.
+
+Key Objectives:
+Data collection and cleaning
+Descriptive analysis of youth progress indicators
+Visualization of regional disparities in youth well-being
+Model development to predict future trends
+
+Technologies Used:
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Power BI
+Outcome: Detailed report and interactive dashboard showing the Youth Progress Index across regions.
