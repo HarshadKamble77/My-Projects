@@ -2,7 +2,7 @@
 > Detect phishing websites using intelligent URL-based classification models.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarshadKamble/website-phishing-detection-using-ml/main/image.png" 
+  <img src="[https://raw.githubusercontent.com/HarshadKamble/website-phishing-detection-using-ml/main/image.png](https://github.com/HarshadKamble77/My-Projects/blob/main/Website-Phishing-Detection/Asset/Image.jpg)" 
        alt="Phishing Website Detection using Machine Learning" width="100%">
 </p>
 
@@ -46,3 +46,6 @@ Our goal: **Empower cybersecurity systems** with a data-driven model that identi
 
 ---
 
+✅ Achieved 89.46% accuracy using XGBoost, providing a scalable solution for real-time phishing detection.
+
+---
