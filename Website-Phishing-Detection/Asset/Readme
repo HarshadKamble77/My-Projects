@@ -1,7 +1,10 @@
 # 🕸️ Website Phishing Detection using Machine Learning
 > Detect phishing websites using intelligent URL-based classification models.
 
-![Website Phishing Detection](Website Phishing Detection/Phishing Website Detection.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshadKamble/website-phishing-detection-using-ml/main/image.png" 
+       alt="Phishing Website Detection using Machine Learning" width="100%">
+</p>
 
 ## 📘 Overview
 Phishing websites pose major risks by imitating legitimate domains to steal personal information.  
@@ -40,8 +43,6 @@ Our goal: **Empower cybersecurity systems** with a data-driven model that identi
 | Random Forest | 0.8913 | 0.956 |
 | Neural Network | 0.8885 | 0.950 |
 
-> 📊 *![Confusion Matrix Placeholder](assets/confusion_matrix.png)*  
-> 📈 *![ROC Curve Placeholder](assets/roc_curve.png)*
 
 ---
 
