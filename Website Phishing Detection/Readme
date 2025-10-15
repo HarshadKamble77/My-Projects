@@ -1,23 +1,47 @@
-Description:
-This project involves detecting phishing websites using machine learning techniques. 
-The analysis focuses on identifying malicious websites by examining various URL features and patterns associated with phishing activities.
+# 🕸️ Website Phishing Detection using Machine Learning
+> Detect phishing websites using intelligent URL-based classification models.
 
-Key Objectives:
-Data cleaning and preprocessing to handle missing values and check for class imbalance
-Deep Exploratory Data Analysis (EDA) to examine variable distributions, correlations, and multicollinearity
-Feature extraction from URLs and dimensionality reduction using PCA
-Model building using 10 different machine learning algorithms, including XGBoost, Random Forest, Neural Networks, and more
-Hyperparameter tuning to optimize model performance and reduce overfitting
-Model evaluation using various metrics like Accuracy, Precision, Recall, F1-Score, and ROC-AUC
-Visualization of key insights and model performance metrics
+![Project Banner](Phishing Website Detection.png)
 
-Technologies Used:
-Python (Pandas, NumPy, Scikit-learn, XGBoost)
-Machine Learning Algorithms (Logistic Regression, Decision Trees, Random Forest, Gradient Boosting, XGBoost, SVM, k-NN, Naive Bayes, AdaBoost, Neural Networks)
-Visualization (Matplotlib, Seaborn)
+## 📘 Overview
+Phishing websites pose major risks by imitating legitimate domains to steal personal information.  
+This project builds a **machine learning model** to automatically detect phishing URLs using pattern analysis and classification techniques.
 
-Outcome:
-An accurate phishing detection model with XGBoost showing the best performance, along with interactive visualizations showcasing feature importance, 
-classification results, and actionable insights. 
-The project provides a robust framework for phishing detection, 
-highlighting the effectiveness of tree-based models and neural networks while identifying limitations in Naive Bayes and SVM for this use case.
+---
+
+## 🧠 Motivation
+With cyberattacks on the rise, manual detection is no longer feasible.  
+Our goal: **Empower cybersecurity systems** with a data-driven model that identifies phishing sites with high accuracy and minimal false negatives.
+
+---
+
+## 📂 Dataset
+- **Source:** Mendeley Data (Phishing Websites Dataset)
+- **Records:** ~11,000 URLs
+- **Features:** 20 character-based attributes (e.g., number of dots, slashes, “@”, “%”, etc.)
+- **Target:** `phishing` (1) or `legitimate` (0)
+
+---
+
+## ⚙️ Methodology
+1. Data Cleaning and EDA  
+2. Feature Correlation & VIF Analysis  
+3. PCA for Dimensionality Reduction  
+4. Model Building (10 ML algorithms)  
+5. Hyperparameter Tuning (XGBoost)  
+6. Evaluation via Accuracy, F1-score, ROC-AUC  
+
+---
+
+## 🧾 Results
+| Model | Accuracy | ROC-AUC |
+|--------|-----------|----------|
+| **XGBoost** | **0.8946** | **0.962** |
+| Random Forest | 0.8913 | 0.956 |
+| Neural Network | 0.8885 | 0.950 |
+
+> 📊 *![Confusion Matrix Placeholder](assets/confusion_matrix.png)*  
+> 📈 *![ROC Curve Placeholder](assets/roc_curve.png)*
+
+---
+
