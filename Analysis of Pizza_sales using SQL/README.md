@@ -1,5 +1,5 @@
 # 🍕 Pizza Sales Analysis Using SQL & Power BI
-![Dashboard Overview](path_to_image.png) 
+![Pizza Sales Analysis](ImageP.png) 
 
 
 **📈 Uncovering Insights from Pizza Sales Data through Data Analytics and Visualization**
@@ -55,4 +55,3 @@ Each table was joined using foreign keys to create a unified dataset for analysi
 
 ---
 
-## 📁 Folder Structure
