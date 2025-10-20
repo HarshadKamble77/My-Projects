@@ -47,9 +47,7 @@ Performed using **Power Query**:
 ---
 
 ## 🖼️ Visuals
-![Dashboard Summary](path_to_image.png)
-![Drilldown Page](path_to_image.png)
+![Dashboard Summary](Summary.png)
+![Drilldown Page](DrillDown.png)
 
 ---
-
-## 📁 Folder Structure
