@@ -49,8 +49,7 @@ Using the **UrbanSound8K dataset**, we extracted Mel-frequency cepstral coeffici
 ---
 
 ## 🎨 Visuals
-![MFCC Heatmap](path_to_image.png)
-![Model Accuracy](path_to_image.png)
-![Confusion Matrix](path_to_image.png)
+![Model Accuracy](ModelAcc.png)
+
 
 ---
