@@ -46,8 +46,9 @@ Performed using **Power Query**:
 
 ---
 
-## 🖼️ Visuals
+## 🖼️ Dashboard Visuals
 ![Dashboard Summary](Summary.png)
+![Detailed Overview](DetailedOverview.png)
 ![Drilldown Page](DrillDown.png)
 
 ---
